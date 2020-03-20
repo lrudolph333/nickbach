@@ -1,0 +1,28 @@
+
+.root {
+    margin: 0px;
+    color: white;
+}
+
+.page1 {
+    background-color: blue;
+    border-color: orange;
+    width: 100vw;
+    height: 100vh;
+}
+
+.page2 {
+    background-color: red;
+    border-color: green;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.page3 {
+    background-color: black;
+    border-color: grey;
+    width: 100vw;
+    height: 100vh;
+
+}
