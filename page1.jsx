@@ -28,5 +28,5 @@ const delivery = <DeliveryTime/>;
 const animation = <CurrentPhaseImage/>;
 const page = <Page1/>;
 
-const domContainer = document.getElementById('root');
+const domContainer = document.getElementById('page1');
 ReactDOM.render(page, domContainer);
